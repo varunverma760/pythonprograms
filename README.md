@@ -1,1 +1,1 @@
-# fpga-from-coursera
+# python-programs-basic
